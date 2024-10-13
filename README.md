@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @bongmusadube
-- 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ...doing a BSc Computer Science degree at the University Of Johannesburg
-- 👨🏾‍💻 Currently working on an innovative childcare platform called Sittr. Check our demonstration https://adam.uj.ac.za/projectsday/?page=projects&type=teams&no=33
-- 💞️ I’m looking to collaborate on ...on innovative software solutions projects
-- 📫 How to reach me ...contact me on +27606125328 or Email: bongmusadube1@gmail.com
+👋 Hi, I’m Bong'musa Wonder Dube (@bongmusadube)
+🚀 Passionate Software Developer pursuing a BSc in Computer Science at the University of Johannesburg. I thrive at the intersection of technology and innovation, always eager to build impactful solutions.
 
-<!---
-bongmusadube/bongmusadube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently Learning: Advanced software development techniques and sharpening my problem-solving skills.
+
+💡 What I'm Working On:
+Leading the development of Sittr, an innovative childcare platform. 🧸
+👉 Check out our project demo here.
+
+💻 Looking to Collaborate On: Innovative software solutions that push boundaries and deliver real-world value.
+
+📬 Let’s Connect:
+📱 WhatsApp: +27 606125328
+📧 Email: bongmusadube1@gmail.com
