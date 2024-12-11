@@ -1,14 +1,15 @@
-👋 Hi, I’m Bong'musa Wonder Dube (@bongmusadube)
-🚀 Passionate Software Developer pursuing a BSc in Computer Science at the University of Johannesburg. I thrive at the intersection of technology and innovation, always eager to build impactful solutions.
+👋 Hi, I’m Bong'musa Wonder Dube (@bongmusadube)  
+🚀 Aspiring Data Analyst and Full-Stack Developer with a passion for technology, innovation, and solving complex problems. I hold a BSc in IT (Computer Science and Informatics)** from the University of Johannesburg.  
 
-🌱 Currently Learning: Advanced software development techniques and sharpening my problem-solving skills.
+🌱 Currently Learning: Data analysis techniques, SQL, advanced Excel, and Python for analytics.  
 
-💡 What I'm Working On:
-Leading the development of Sittr, an innovative childcare platform. 🧸
-👉 Check out our project demo here.
+💡 What I'm Working On:  
+- Participating in a Data Analysis Learnership sponsored by Lombard Insurance, focused on blending theory and real-world data skills.  
+- Building impactful software solutions like Sittr, a childcare platform revolutionising the industry. 🧸  
+👉 Explore my projects here!  
 
-💻 Looking to Collaborate On: Innovative software solutions that push boundaries and deliver real-world value.
+💻 Looking to Collaborate On: Data-driven projects and innovative software solutions that deliver tangible value.  
 
-📬 Let’s Connect:
-📱 WhatsApp: +27 606125328
-📧 Email: bongmusadube1@gmail.com
+📬 Let’s Connect:  
+📱 WhatsApp: +27 606125328  
+📧 Email: bongmusadube1@gmail.com  
