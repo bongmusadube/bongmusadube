@@ -1,5 +1,5 @@
 👋 Hi, I’m Bong'musa Wonder Dube (@bongmusadube)  
-🚀 Aspiring Data Analyst and Full-Stack Developer with a passion for technology, innovation, and solving complex problems. I hold a BSc in IT (Computer Science and Informatics)** from the University of Johannesburg.  
+🚀 Aspiring Data Analyst and Full-Stack Developer with a passion for technology, innovation, and solving complex problems. I hold a BSc in IT (Computer Science and Informatics) from the University of Johannesburg.  
 
 🌱 Currently Learning: Data analysis techniques, SQL, advanced Excel, and Python for analytics.  
 
